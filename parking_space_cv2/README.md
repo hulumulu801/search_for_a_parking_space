@@ -25,4 +25,9 @@
 
         pip3 install -r requirements.txt
 # Использование:
-  - help:
+  - запуск с установленными параметрами:
+
+        python3 main.py
+  - редактировать параметры:
+
+        python3 main.py -h
