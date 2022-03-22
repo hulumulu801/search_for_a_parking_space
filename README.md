@@ -9,4 +9,5 @@
 https://user-images.githubusercontent.com/52704904/159499980-fb4d587a-a006-42e8-895a-cfd730948540.mp4
 # Под капотом:
 python3
+
 Ubuntu 20.04.4 LTS
