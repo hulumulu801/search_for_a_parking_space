@@ -1,2 +1,5 @@
-# search_for_a_parking_space
-поиск парковочного места c помощью opencv и neural networks
+# Описание:
+**Скрипты для поиска парковочного места c помощью opencv и neural networks!**
+# Под капотом:
+python3
+Ubuntu 20.04.4 LTS
