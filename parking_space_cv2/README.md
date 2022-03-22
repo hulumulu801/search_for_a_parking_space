@@ -25,5 +25,4 @@
 
         pip3 install -r requirements.txt
 # Использование:
-
-  python3 main.py
+  - help:
