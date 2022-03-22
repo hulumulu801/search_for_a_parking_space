@@ -17,10 +17,10 @@
         cd search_for_a_parking_space/ && cd parking_space_cv2/
   - обновляем pip3:
 
-        pip3 install --upgarde pip3
+        pip3 install --upgrade pip3
   - обновляем setuptools:
 
-        pip3 install --upgarde setuptools
+        pip3 install --upgrade setuptools
   - устанавливаем нужные библиотеки:
 
         pip3 install -r requirements.txt
