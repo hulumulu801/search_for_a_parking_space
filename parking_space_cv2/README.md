@@ -9,6 +9,9 @@
   - скачиваем репозиторий:
 
         git clone https://github.com/hulumulu801/search_for_a_parking_space.git
+  - переходим в директорию:
+
+        cd search_for_a_parking_space/ && cd parking_space_cv2/
   - обновляем pip3:
 
         pip3 install --upgarde pip3
